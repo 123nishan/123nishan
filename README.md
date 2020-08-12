@@ -1,5 +1,5 @@
 ### Hi there, Its Nishan 👋
-#### <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Website]
+
 
 ## I'm a Developer
 
