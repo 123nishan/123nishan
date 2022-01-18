@@ -3,7 +3,7 @@
 
 ## I'm a Developer
 
-- 🔭 I’m currently working as a mobile app and web developer
+- 🔭 I’m currently pursing MSc Advanced Computer Science from The University of York,UK.
 - 👯 I’m available for freelance work
 - 😄 This year Goals: Learning and learning
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=123nishan&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=123nishan&show_icons=true&hide_border=true" /> -->
 
 
 
