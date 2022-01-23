@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Some of my work:
 <img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-play-store.svg" /> [GarageInc App] <br> <br>
-<img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc Web]
+
 
 <br />
 <br />
