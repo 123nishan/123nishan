@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently pursing MSc Advanced Computer Science from The University of York,UK.
 - 👯 I’m available for freelance work
-- 😄 This year Goals: Learning and learning
--  So far learned few new thing like OpenMP, Genetic Algorithm and CUDA.
+- 😄 This year Goals: Learning and learning -2022
+-  So far learned few new thing like OpenMP, Genetic Algorithm and CUDA this year.
 
 ### Connect with me:
 <!--[<img align="left" alt="web | Facebook" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />][Website]-->
