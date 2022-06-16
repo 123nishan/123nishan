@@ -4,6 +4,7 @@
 ## I'm a Developer
 
 - 🔭 I’m currently pursing MSc Advanced Computer Science from The University of York,UK.
+- Currenlty working on a project to predict clothing size from demographic and anthropometric data
 - 👯 I’m available for freelance work
 - 😄 This year Goals: Learning and learning -2022
 -  So far learned few new thing like OpenMP, Genetic Algorithm and CUDA this year.
